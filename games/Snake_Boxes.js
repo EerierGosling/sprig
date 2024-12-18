@@ -1,7 +1,7 @@
 /*
 @title: Snake_Boxes
 @author: Aryavrat Mishra
-@tags: ['retro']
+@tags: ['retro', 'puzzle']
 @addedOn: 2024-01-30
 First time? Check out the tutorial game:
 https://sprig.hackclub.com/gallery/getting_started

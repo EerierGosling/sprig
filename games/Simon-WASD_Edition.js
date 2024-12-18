@@ -1,7 +1,7 @@
 /*
 @title: Simon-WASD_Edition
 @author: Eli Coustan
-@tags: ['retro']
+@tags: ['retro', 'memory', 'endless']
 @addedOn: 2022-11-13
 @github: edcous
 

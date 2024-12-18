@@ -1,7 +1,7 @@
 /*
 @title: Slimer
 @author: DevCmb
-@tags: []
+@tags: ['puzzle']
 @addedOn: 2024-07-04
 Slimer
 */

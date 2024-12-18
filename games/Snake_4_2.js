@@ -1,7 +1,7 @@
 /*
 @title: Snake_4_2
 @author: Stephen King
-@tags: ['endless']
+@tags: ['endless', 'retro', 'multiplayer']
 @addedOn: 2022-11-18
 */
 //random function

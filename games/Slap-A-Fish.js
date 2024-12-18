@@ -1,7 +1,7 @@
 /*
 @title: Slap-a-Fish
 @author: Ben Park
-@tags: []
+@tags: ['endless', 'timed']
 @addedOn: 2024-06-28
 */
 

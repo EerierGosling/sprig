@@ -1,7 +1,7 @@
 /*
 @title: Slippy-Slidey
 @author: B0redChungus
-@tags: []
+@tags: ['puzzle', 'strategy']
 @addedOn: 2024-09-17
 Inspired by "the slippery ice puzzles" in snowdin from Undertale by Toby Fox.
 */
